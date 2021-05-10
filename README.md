@@ -1,3 +1,3 @@
-# Java-Kelime-Tahmin
+# Java-Isim-Tahmin
 
-Java programlama dilinde kelime tahmin oyunu
+Java programlama dilinde isim tahmin oyunu
